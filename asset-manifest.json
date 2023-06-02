@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vitrina/static/css/main.eeea35cd.css",
+    "main.js": "/vitrina/static/js/main.81c8065c.js",
+    "index.html": "/vitrina/index.html",
+    "main.eeea35cd.css.map": "/vitrina/static/css/main.eeea35cd.css.map",
+    "main.81c8065c.js.map": "/vitrina/static/js/main.81c8065c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeea35cd.css",
+    "static/js/main.81c8065c.js"
+  ]
+}
